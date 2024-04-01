@@ -523,3 +523,4 @@ main(){
 }
 
 main
+sudo systemctl start v2ray
